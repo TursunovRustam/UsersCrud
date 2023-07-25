@@ -1,0 +1,184 @@
+{
+  "admin": {
+    "ru": {
+      "backButton": "назад",
+      "usersButton": "страница пользователей",
+      "categoriesButton": "страница категорий",
+      "tillsButton": "страница касс"
+    },
+    "uz": {
+      "backButton": "orqaga",
+      "usersButton": "foydalanuvchilar sahifasi",
+      "categoriesButton": "kategoriyalar sahifasi",
+      "tillsButton": "kassalar sahifasi"
+    }
+  },
+  "auth": {
+    "ru": {
+      "login": "войти",
+      "productsPage": "Страница продуктов",
+      "sellingPage": "Страница продаж",
+      "adminPage": "Страница админов"
+    },
+    "uz": {
+      "login":"kirish",
+      "productsPage": "mahsulotlar sahifasi",
+      "sellingPage": "sotuv sahifasi",
+      "adminPage": "admin sahifasi"
+    }
+  },
+  "category": {
+    "ru": {
+      "backButton": "назад",
+      "name": "название категории",
+      "newCategory": "добавить категорию",
+      "closeButton": "закрыть",
+      "saveChangesButton": "добавить"
+    },
+    "uz": {
+      "backButton": "orqaga",
+      "name": "kategoriya nomi",
+      "newCategory": "kategoriya qo'shish",
+      "closeButton": "yopish",
+      "saveChangesButton": "saqlash"
+    }
+  },
+  "users": {
+    "ru": {
+      "username": "имя пользователя",
+      "password": "пароль",
+      "userRole": "роль пользователя",
+      "newUser": "новый пользователь",
+      "closeButton": "закрыть",
+      "saveChangesButton": "добавить"
+    },
+    "uz": {
+      "username": "foydalanuvchi ismi",
+      "password": "parol",
+      "userRole": "foydalanuvchi roli",
+      "newUser": "foydalanuvchi qo'shish",
+      "closeButton": "yopish",
+      "saveChangesButton": "saqlash"
+    }
+  },
+  "login": {
+    "ru": {
+      "signIn": "войти",
+      "username": "имя пользователя",
+      "userNameError": "вы должны написать имю пользователя",
+      "password": "пароль",
+      "passwordError": "вы должны написать пароль пользователя"
+    },
+    "uz": {
+      "signIn": "tizimga kirish",
+      "username": "foydalanuvchi ismi",
+      "userNameError": "foydalanuvchi ismi kiritilishi shart",
+      "password": "parol",
+      "passwordError": "foydalanuvchi paroli kiritilishi shart"
+    }
+  },
+  "home": {
+    "uz": {
+
+    },
+    "ru": {
+
+    }
+  },
+  "product": {
+    "ru": {
+      "backButton": "назад",
+      "searching": "название продукта",
+      "newProductButton": "добавить продукт",
+      "category": "выберите категорию",
+      "name": "название продукта",
+      "nameError": "вы должны написать названию продукта",
+      "price": "цена продукта",
+      "priceError": "вы должны написать цену продукта",
+      "incomePrice": "цена покупки продукта",
+      "incomePriceError": "вы должны написать цену покупки продукта",
+      "categoryLabel": "категория",
+      "categoryLabelError": "вы должны выбирать категорию продукта",
+      "saveChangesButton": "добавить"
+    },
+    "uz": {
+      "backButton": "orqaga",
+      "searching": "mahsulot nomi",
+      "newProductButton": "mahsulot qo'shish",
+      "category": "kategoriyani tanlang",
+      "name": "mahsulot nomi",
+      "nameError": "mahsulot nomi kiritilishi majburiy",
+      "price": "mahsulot tan narxi",
+      "priceError": "mahsulot tan narxi kiritilishi majburiy",
+      "incomePrice": "mahsulot kirim narxi",
+      "incomePriceError": "mahsulot kirim narxi kiritilishi shart",
+      "categoryLabel": "kategoriya",
+      "categoryLabelError": "mahsulot kategoriyasini tanlash majburiy",
+      "saveChangesButton": "saqlash"
+    }
+  },
+  "productAbout": {
+    "ru": {
+      "image": "фото",
+      "name": "название продукта",
+      "price": "цена продукта",
+      "incomePrice": "цена покупки продукта",
+      "balance": "остаток"
+    },
+    "uz": {
+      "image": "rasm",
+      "name": "mahsulot nomi",
+      "price": "mahsulot tan narxi",
+      "incomePrice": "mahsulot sotib olinish narxi",
+      "balance": "qoldiq"
+    }
+  },
+  "till": {
+    "ru": {
+      "back": "назад",
+      "addTill": "добавить кассу",
+      "number": "номер касси",
+      "choose": "выбрано",
+      "notChoose": "не выбрано",
+      "close": "закрыть",
+      "save": "добавить"
+    },
+    "uz": {
+      "back": "orqaga",
+      "addTill": "kassa qo'shish",
+      "number": "kassaning raqami",
+      "choose": "tanlangan",
+      "notChoose": "tanlanmagan",
+      "close": "yopish",
+      "save": "qo'shish"
+    }
+  },
+  "sellingProduct": {
+    "ru": {
+      "back": "назад",
+      "chooseCategory": "быбрать категорию",
+      "chooseUser": "выберите покупателья",
+      "productIsNotPresent": "продукт закончился или не осталься в запасе",
+      "newQueue": "новый очередь",
+      "user": "покупатель",
+      "productName": "название продукта",
+      "productPrice": "цена продукта",
+      "productCount": "количество",
+      "remove": "удалить",
+      "finish": "закончить"
+    },
+    "uz": {
+      "back": "orqaga",
+      "chooseCategory": "kategoriya tanlang",
+      "chooseUser": "mijozni tanlang",
+      "productIsNotPresent": "mahsulot tugadi yoki omborda qolmadi",
+      "newQueue": "yangi navbat",
+      "user": "sotuvchi",
+      "productName": "mahsulot nomi",
+      "productPrice": "mahsulot narxi",
+      "productCount": "miqdori",
+      "remove": "o'chirish",
+      "finish": "tugatish"
+    }
+  }
+}
